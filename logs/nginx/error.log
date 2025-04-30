@@ -1,0 +1,172 @@
+2025/04/29 17:15:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:15:57 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:15:58 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:15:59 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:16:01 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:16:03 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:16:07 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:16:14 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:16:27 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:16:53 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:17:45 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:18:46 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:19:46 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:20:47 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:21:47 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:22:48 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:23:48 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:24:49 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:25:49 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:26:50 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:27:50 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:28:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:29:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:30:52 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:31:53 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:32:53 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:33:54 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:34:54 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:35:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:36:56 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:38:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:38:56 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:38:58 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:38:59 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:39:01 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:39:03 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:39:07 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:39:13 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:39:27 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:39:54 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:40:46 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:41:46 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:42:47 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:43:47 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:44:48 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:45:48 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:46:49 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:47:50 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:48:50 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:49:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:50:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:51:52 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:52:52 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:53:53 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:54:53 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:55:54 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:56:54 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:57:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:58:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 17:59:56 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:00:56 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:01:57 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:02:58 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:03:58 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:04:59 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:05:59 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:07:00 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:08:00 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:09:01 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:10:01 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:11:02 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:12:02 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:13:03 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:14:03 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:15:04 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:16:04 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:2
+2025/04/29 18:19:55 [notice] 1#1: using the "epoll" event method
+2025/04/29 18:19:55 [notice] 1#1: nginx/1.27.5
+2025/04/29 18:19:55 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/04/29 18:19:55 [notice] 1#1: OS: Linux 6.12.12-amd64
+2025/04/29 18:19:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/29 18:19:55 [notice] 1#1: start worker processes
+2025/04/29 18:19:55 [notice] 1#1: start worker process 21
+2025/04/29 18:19:55 [notice] 1#1: start worker process 22
+2025/04/29 18:30:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/29 18:30:35 [notice] 21#21: gracefully shutting down
+2025/04/29 18:30:35 [notice] 21#21: exiting
+2025/04/29 18:30:35 [notice] 22#22: gracefully shutting down
+2025/04/29 18:30:35 [notice] 22#22: exiting
+2025/04/29 18:30:35 [notice] 21#21: exit
+2025/04/29 18:30:35 [notice] 22#22: exit
+2025/04/29 18:30:35 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/04/29 18:30:35 [notice] 1#1: worker process 21 exited with code 0
+2025/04/29 18:30:35 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/29 18:30:35 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2025/04/29 18:30:35 [notice] 1#1: worker process 22 exited with code 0
+2025/04/29 18:30:35 [notice] 1#1: exit
+2025/04/29 18:30:40 [notice] 1#1: using the "epoll" event method
+2025/04/29 18:30:40 [notice] 1#1: nginx/1.27.5
+2025/04/29 18:30:40 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/04/29 18:30:40 [notice] 1#1: OS: Linux 6.12.12-amd64
+2025/04/29 18:30:40 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/29 18:30:40 [notice] 1#1: start worker processes
+2025/04/29 18:30:40 [notice] 1#1: start worker process 20
+2025/04/29 18:30:40 [notice] 1#1: start worker process 21
+2025/04/29 18:41:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/29 18:41:42 [notice] 20#20: gracefully shutting down
+2025/04/29 18:41:42 [notice] 21#21: gracefully shutting down
+2025/04/29 18:41:42 [notice] 20#20: exiting
+2025/04/29 18:41:42 [notice] 21#21: exiting
+2025/04/29 18:41:42 [notice] 20#20: exit
+2025/04/29 18:41:42 [notice] 21#21: exit
+2025/04/29 18:41:42 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2025/04/29 18:41:42 [notice] 1#1: worker process 21 exited with code 0
+2025/04/29 18:41:42 [notice] 1#1: signal 29 (SIGIO) received
+2025/04/29 18:41:42 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/04/29 18:41:42 [notice] 1#1: worker process 20 exited with code 0
+2025/04/29 18:41:42 [notice] 1#1: exit
+2025/04/29 18:41:47 [notice] 1#1: using the "epoll" event method
+2025/04/29 18:41:47 [notice] 1#1: nginx/1.27.5
+2025/04/29 18:41:47 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/04/29 18:41:47 [notice] 1#1: OS: Linux 6.12.12-amd64
+2025/04/29 18:41:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/29 18:41:47 [notice] 1#1: start worker processes
+2025/04/29 18:41:47 [notice] 1#1: start worker process 20
+2025/04/29 18:41:47 [notice] 1#1: start worker process 21
+2025/04/29 19:03:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/29 19:03:20 [notice] 20#20: gracefully shutting down
+2025/04/29 19:03:20 [notice] 20#20: exiting
+2025/04/29 19:03:20 [notice] 20#20: exit
+2025/04/29 19:03:20 [notice] 21#21: gracefully shutting down
+2025/04/29 19:03:20 [notice] 21#21: exiting
+2025/04/29 19:03:20 [notice] 21#21: exit
+2025/04/29 19:03:20 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/04/29 19:03:20 [notice] 1#1: worker process 20 exited with code 0
+2025/04/29 19:03:20 [notice] 1#1: worker process 21 exited with code 0
+2025/04/29 19:03:20 [notice] 1#1: exit
+2025/04/29 19:03:26 [notice] 1#1: using the "epoll" event method
+2025/04/29 19:03:26 [notice] 1#1: nginx/1.27.5
+2025/04/29 19:03:26 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/04/29 19:03:26 [notice] 1#1: OS: Linux 6.12.12-amd64
+2025/04/29 19:03:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/29 19:03:26 [notice] 1#1: start worker processes
+2025/04/29 19:03:26 [notice] 1#1: start worker process 20
+2025/04/29 19:03:26 [notice] 1#1: start worker process 21
+2025/04/29 19:05:09 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/04/29 19:05:09 [notice] 21#21: gracefully shutting down
+2025/04/29 19:05:09 [notice] 21#21: exiting
+2025/04/29 19:05:09 [notice] 21#21: exit
+2025/04/29 19:05:09 [notice] 20#20: gracefully shutting down
+2025/04/29 19:05:09 [notice] 20#20: exiting
+2025/04/29 19:05:09 [notice] 20#20: exit
+2025/04/29 19:05:09 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2025/04/29 19:05:09 [notice] 1#1: worker process 20 exited with code 0
+2025/04/29 19:05:09 [notice] 1#1: worker process 21 exited with code 0
+2025/04/29 19:05:09 [notice] 1#1: exit
+2025/04/29 19:05:14 [notice] 1#1: using the "epoll" event method
+2025/04/29 19:05:14 [notice] 1#1: nginx/1.27.5
+2025/04/29 19:05:14 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/04/29 19:05:14 [notice] 1#1: OS: Linux 6.12.12-amd64
+2025/04/29 19:05:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/29 19:05:14 [notice] 1#1: start worker processes
+2025/04/29 19:05:14 [notice] 1#1: start worker process 20
+2025/04/29 19:05:14 [notice] 1#1: start worker process 21
+2025/04/30 09:38:08 [notice] 1#1: using the "epoll" event method
+2025/04/30 09:38:08 [notice] 1#1: nginx/1.27.5
+2025/04/30 09:38:08 [notice] 1#1: built by gcc 14.2.0 (Alpine 14.2.0) 
+2025/04/30 09:38:08 [notice] 1#1: OS: Linux 6.12.12-amd64
+2025/04/30 09:38:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/04/30 09:38:08 [notice] 1#1: start worker processes
+2025/04/30 09:38:08 [notice] 1#1: start worker process 20
+2025/04/30 09:38:08 [notice] 1#1: start worker process 21
