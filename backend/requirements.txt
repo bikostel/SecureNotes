@@ -1,3 +1,13 @@
 fastapi
-uvicorn
+uvicorn[standard]
+python-jose
+cryptography
+passlib[bcrypt]
 psycopg2-binary
+python-dotenv
+
+# Herramientas de desarrollo y análisis
+pytest
+httpx
+bandit
+flake8

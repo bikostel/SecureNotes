@@ -4,47 +4,62 @@ services:
   nginx:
     image: nginx:alpine
     container_name: reverse_proxy
-    restart: always
+    restart: unless-stopped
+
     ports:
       - "80:80"
       - "443:443"
+
     volumes:
-      - ./nginx/conf.d:/etc/nginx/conf.d
-      - ./certs:/etc/nginx/certs
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./certs:/etc/nginx/certs:ro
       - ./logs/nginx:/var/log/nginx
+      - nginx_cache:/var/cache/nginx
+      - nginx_run:/run
+
     depends_on:
       - backend
     networks:
       - secure_network
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
 
   backend:
     build: ./backend
-    image: securenotes_backend:latest
+    image: securenotes_backend:v1.0.0
     container_name: secure_backend
-    restart: always
+    restart: unless-stopped
     environment:
       - DATABASE_URL=${DATABASE_URL}
       - SECRET_KEY=${SECRET_KEY}
     volumes:
-      - ./backend:/app
+      - ./backend:/app:ro
     expose:
       - "8000"
     networks:
       - secure_network
+    security_opt:
+      - no-new-privileges:true
+    user: "1000:1000"
+    read_only: true
+    command: uvicorn app:app --host 0.0.0.0 --port 8000
 
   db:
     image: postgres:alpine
     container_name: secure_db
-    restart: always
+    restart: unless-stopped
     environment:
       - POSTGRES_USER=${POSTGRES_USER}
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
       - POSTGRES_DB=${POSTGRES_DB}
     volumes:
       - db_data:/var/lib/postgresql/data
-      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
     networks:
       - secure_network
+    security_opt:
+      - no-new-privileges:true
 
 networks:
   secure_network:
@@ -52,3 +67,5 @@ networks:
 
 volumes:
   db_data:
+  nginx_cache:
+  nginx_run:
