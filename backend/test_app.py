@@ -1,15 +1,16 @@
 # backend/test_app.py
 
-from fastapi.testclient import TestClient
 import sys
 import os
+from fastapi.testclient import TestClient
 
 # Asegura que se puede importar desde backend/
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from backend.app import app
+from backend.app import app  # noqa: E402
 
 client = TestClient(app)
+
 
 def test_create_and_get_note():
     # Crear una nota

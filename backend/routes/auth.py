@@ -4,6 +4,7 @@ from backend.security.passwords import hash_password, verify_password
 from backend.security.jwt_handler import create_access_token
 from backend.database.fake_db import fake_users_db
 
+
 router = APIRouter()
 
 
