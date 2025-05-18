@@ -14,23 +14,23 @@ from backend.app import app  # noqa: E402
 client = TestClient(app)
 
 
-def test_create_and_get_note():
+def test_create_and_get_note():  # noqa: E305
     # Crear una nota
     response = client.post("/notes", json={
         "title": "Nota de prueba",
         "content": "Contenido secreto"
-    })
-assert response.status_code == 200  # nosec
-data = response.json()
-assert data["title"] == "Nota de prueba"  # nosec
-assert data["content"] == "Contenido secreto"  # nosec
-note_id = data["id"]
+    })  # nosec
+    assert response.status_code == 200  # nosec
+    data = response.json()
+    assert data["title"] == "Nota de prueba"  # nosec
+    assert data["content"] == "Contenido secreto"  # nosec
+    note_id = data["id"]
 
-# Obtener las notas
-response = client.get("/notes")
-assert response.status_code == 200  # nosec
-notes = response.json()
-assert any(  # nosec
-    note["id"] == note_id and note["content"] == "Contenido secreto"
-    for note in notes
-)
+    # Obtener las notas
+    response = client.get("/notes")  # nosec
+    assert response.status_code == 200  # nosec
+    notes = response.json()
+    assert any(  # nosec
+        note["id"] == note_id and note["content"] == "Contenido secreto"
+        for note in notes
+    )
