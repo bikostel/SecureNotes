@@ -1,1 +1,55 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Archivos de configuración sensibles
 .env
+.env.*
+
+# Archivos de bases de datos
+*.sqlite3
+
+# Logs personalizados
+logs/
+*.log
+
+# Archivos de docker y cache de contenedores
+docker-compose.override.yml
+*.pid
+*.seed
+
+# Trivy, Dockle, Bandit outputs temporales
+.trivy/
+.dockle/
+bandit-report.json
+
+# Archivos de VSCode u otros editores
+.vscode/
+.idea/
+
+# Archivos de pruebas
+coverage/
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+
+# Archivos generados por CI/CD
+*.deb
+trivy_*_Linux-64bit.deb
