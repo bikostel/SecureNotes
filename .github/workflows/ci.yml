@@ -55,7 +55,7 @@ jobs:
       env:
         DATABASE_URL: postgresql://postgres:postgres@localhost:5432/securenotes
         SECRET_KEY: ${{ secrets.SECRET_KEY }}
-       run: |
+      run: |
         source venv/bin/activate
         pytest backend/test_app.py
 
