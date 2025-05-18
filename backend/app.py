@@ -1,4 +1,4 @@
-k# backend/app.py
+# backend/app.py
 
 from fastapi import FastAPI
 from backend.routes import auth, notes
@@ -25,4 +25,3 @@ def health():
 @app.get("/")
 def read_root():
     return {"message": "SecureNotes backend funcionando correctamente."}
-

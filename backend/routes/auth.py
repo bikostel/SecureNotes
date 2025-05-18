@@ -31,4 +31,3 @@ def login(user: UserLogin):
 
     access_token = create_access_token({"sub": user.username})
     return {"access_token": access_token, "token_type": "bearer"}
-
