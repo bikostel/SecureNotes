@@ -176,12 +176,6 @@ Cada push ejecuta:
 
 Licencia MIT.
 
-👥 Autores
+👥 Autor
 
 Sergio Izquierdo Planells
-
-Compañero de equipo (nombre real si quieres ponerlo)
-
-🔗 Repositorio
-
-👉 (aquí pones tu link)
